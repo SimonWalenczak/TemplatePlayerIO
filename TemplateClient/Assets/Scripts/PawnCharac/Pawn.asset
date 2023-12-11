@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4b7567c61b7fa2429fd0e3a49353589, type: 3}
+  m_Name: Pawn
+  m_EditorClassIdentifier: 
+  Letter: 80
+  Sprites:
+  - {fileID: 21300000, guid: 3686ccf4e114b154bb441c2a7c48ff78, type: 3}
+  - {fileID: 21300000, guid: 5dba93ae0a579c24381cf2fd3cd8071b, type: 3}
+  PossibleMovements:
+  - {x: 0, y: 1}
+  - {x: 0, y: 2}

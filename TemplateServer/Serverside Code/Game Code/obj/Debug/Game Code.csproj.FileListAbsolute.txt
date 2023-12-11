@@ -1,0 +1,45 @@
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\Game Code.csproj.AssemblyReference.cache
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\SamAssembly.dll
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\bin\Debug\SamAssembly.pdb
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\SamAssembly.dll
+C:\Users\samuel.charlet\Desktop\PlayerIO_SDK\Unity3D\Example - Multiplayer - Mushrooms\Serverside Code\Game Code\obj\Debug\SamAssembly.pdb
+C:\Users\samuel.charlet\Desktop\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\SamAssembly.dll
+C:\Users\samuel.charlet\Desktop\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\SamAssembly.pdb
+C:\Users\samuel.charlet\Desktop\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\samuel.charlet\Desktop\Example - Multiplayer\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\samuel.charlet\Desktop\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.AssemblyReference.cache
+C:\Users\samuel.charlet\Desktop\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\samuel.charlet\Desktop\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\samuel.charlet\Desktop\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\SamAssembly.dll
+C:\Users\samuel.charlet\Desktop\Example - Multiplayer\Serverside Code\Game Code\obj\Debug\SamAssembly.pdb
+C:\Users\samuel.charlet\Documents\ChessMulti\Server\Serverside Code\Game Code\bin\Debug\SamAssembly.dll
+C:\Users\samuel.charlet\Documents\ChessMulti\Server\Serverside Code\Game Code\bin\Debug\SamAssembly.pdb
+C:\Users\samuel.charlet\Documents\ChessMulti\Server\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\samuel.charlet\Documents\ChessMulti\Server\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\samuel.charlet\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\Game Code.csproj.AssemblyReference.cache
+C:\Users\samuel.charlet\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\samuel.charlet\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\samuel.charlet\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\SamAssembly.dll
+C:\Users\samuel.charlet\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\SamAssembly.pdb
+C:\Users\Simon\Documents\ChessMulti\Server\Serverside Code\Game Code\bin\Debug\SamAssembly.dll
+C:\Users\Simon\Documents\ChessMulti\Server\Serverside Code\Game Code\bin\Debug\SamAssembly.pdb
+C:\Users\Simon\Documents\ChessMulti\Server\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Simon\Documents\ChessMulti\Server\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Simon\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\Game Code.csproj.AssemblyReference.cache
+C:\Users\Simon\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\Simon\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\SamAssembly.dll
+C:\Users\Simon\Documents\ChessMulti\Server\Serverside Code\Game Code\obj\Debug\SamAssembly.pdb
+C:\Users\Simon\Documents\TemplatePlayerIO\TemplatePlayerIO\TemplateServer\Serverside Code\Game Code\bin\Debug\SamAssembly.dll
+C:\Users\Simon\Documents\TemplatePlayerIO\TemplatePlayerIO\TemplateServer\Serverside Code\Game Code\bin\Debug\SamAssembly.pdb
+C:\Users\Simon\Documents\TemplatePlayerIO\TemplatePlayerIO\TemplateServer\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.dll
+C:\Users\Simon\Documents\TemplatePlayerIO\TemplatePlayerIO\TemplateServer\Serverside Code\Game Code\bin\Debug\Player.IO GameLibrary.xml
+C:\Users\Simon\Documents\TemplatePlayerIO\TemplatePlayerIO\TemplateServer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.AssemblyReference.cache
+C:\Users\Simon\Documents\TemplatePlayerIO\TemplatePlayerIO\TemplateServer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Documents\TemplatePlayerIO\TemplatePlayerIO\TemplateServer\Serverside Code\Game Code\obj\Debug\Game Code.csproj.CopyComplete
+C:\Users\Simon\Documents\TemplatePlayerIO\TemplatePlayerIO\TemplateServer\Serverside Code\Game Code\obj\Debug\SamAssembly.dll
+C:\Users\Simon\Documents\TemplatePlayerIO\TemplatePlayerIO\TemplateServer\Serverside Code\Game Code\obj\Debug\SamAssembly.pdb
